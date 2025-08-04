@@ -83,7 +83,7 @@ SlugfyMe.slugify("Salut à tous !", separator: "_")
 
 ## 🧪 Pourquoi cette gem ?
 
-Ce projet fait partie d’un article publié sur [Captain Ruby](https://www.linkedin.com/company/captainruby), un blog francophone dédié à Ruby, Rails et à la transmission du savoir dans notre belle communauté 🖠️
+Ce projet fait partie d’un article publié sur [Captain Ruby](https://captainruby.fr/), un blog francophone dédié à Ruby, Rails et à la transmission du savoir dans notre belle communauté 🖠️
 
 Le but est de **montrer pas à pas** comment créer une gem Ruby et la publier sur RubyGems, avec des explications simples et accessibles.
 
