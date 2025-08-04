@@ -8,6 +8,7 @@
 ## 🇫🇷 Présentation
 
 `SlugfyMe` est une gem Ruby éducative développée dans le cadre du blog [**Captain Ruby**](https://www.linkedin.com/company/captain-ruby-fr/), une ressource de référence pour la communauté Ruby francophone.
+`SlugfyMe` est une gem Ruby éducative développée dans le cadre du blog [**Captain Ruby**](https://www.linkedin.com/company/captain-ruby-fr/), une ressource de référence pour la communauté Ruby francophone.
 
 Elle permet de transformer une chaîne comme :
 
@@ -30,6 +31,7 @@ Elle n’a pas vocation à remplacer une solution complète comme `parameterize`
 
 ## 🇬🇧 About
 
+`SlugfyMe` is a minimalist Ruby gem built as part of [**Captain Ruby**](https://www.linkedin.com/company/captain-ruby-fr/), a French-speaking blog dedicated to Ruby and Rails developers.
 `SlugfyMe` is a minimalist Ruby gem built as part of [**Captain Ruby**](https://www.linkedin.com/company/captain-ruby-fr/), a French-speaking blog dedicated to Ruby and Rails developers.
 
 It turns strings like:
@@ -144,4 +146,4 @@ La gem est disponible sous licence [MIT](https://opensource.org/licenses/MIT).
 
 ---
 
-> 🇫🇷 Cette gem a été créée pour les besoins du blog [Captain Ruby](https://captainruby.fr/) — le repère des passionnés de Ruby et Rails en français.
+> 🇫🇷 Cette gem a été créée pour les besoins du blog [Captain Ruby](https://www.linkedin.com/company/captain-ruby-fr/) — le repère des passionnés de Ruby et Rails en français.
