@@ -144,4 +144,4 @@ La gem est disponible sous licence [MIT](https://opensource.org/licenses/MIT).
 
 ---
 
-> 🇫🇷 Cette gem a été créée pour les besoins du blog [Captain Ruby](https://www.linkedin.com/company/captainruby) — le repère des passionnés de Ruby et Rails en français.
+> 🇫🇷 Cette gem a été créée pour les besoins du blog [Captain Ruby](https://captainruby.fr/) — le repère des passionnés de Ruby et Rails en français.
